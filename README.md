@@ -1,5 +1,5 @@
 Requires latest version of ffmpeg and ffprobe. Old or lite versions do not have this feature built in. was tested using the full version found here. https://www.gyan.dev/ffmpeg/builds/
-# 🎵 MP3 → Visualizer Video Generator (FFmpeg Batch Script)
+
 # 🎵 MP3 → Visualizer Video Generator (FFmpeg Batch Script)
 
 ![Windows](https://img.shields.io/badge/platform-Windows-blue)
